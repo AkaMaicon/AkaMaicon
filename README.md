@@ -50,6 +50,7 @@
   <img src="https://SEU-DOMINIO.vercel.app/api/top-langs/?username=AkaMaicon&layout=compact&theme=github" />
 </p>
 
+
 ---
 
 ## 🧠 Atualmente aprendendo
