@@ -40,14 +40,12 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AkaMaicon&show_icons=true&theme=github&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AkaMaicon&layout=compact&theme=github" />
+  <img src="https://img.shields.io/github/stars/AkaMaicon?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/AkaMaicon?style=for-the-badge" />
+  <img src="https://img.shields.io/github/commit-activity/y/AkaMaicon?style=for-the-badge" />
 </p>
 
 ---
