@@ -1,70 +1,77 @@
-# 👋 Olá, eu sou o Maicon!  
+<h1 align="center">👋 Olá, eu sou o Maicon!</h1>
 
-💻 Desenvolvedor formado em Desenvolvimento de Sistemas no Colégio Tecnico de Limeira (COTIL Unicamp).  
-No meu GitHub você encontrará projetos focados principalmente em **Java**, **Flutter**, **C++** e **desenvolvimento web**, refletindo meus estudos e experiências ao longo da minha jornada como desenvolvedor.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Desenvolvedor+de+Software;Java+%7C+Flutter+%7C+Web;Sempre+aprendendo+algo+novo" />
+</p>
 
 ---
 
-## 🚀 Tecnologias & Linguagens
+## 🧑‍💻 Sobre mim
 
-Estas são algumas das principais tecnologias com as quais já trabalhei ou estudo atualmente:
+💻 Desenvolvedor formado em Desenvolvimento de Sistemas no Colégio Tecnico de Limeira (COTIL Unicamp). No meu GitHub você encontrará projetos focados principalmente em **Java**, **Flutter**, **C++** e **desenvolvimento web**, refletindo meus estudos e experiências ao longo da minha jornada como desenvolvedor.
 
-- ☕ **Java** – Programação orientada a objetos, lógica e aplicações
-- 📱 **Flutter / Dart** – Desenvolvimento de aplicativos mobile
-- 💻 **C++** – Programação de baixo nível e fundamentos
-- 🌐 **HTML & CSS** – Estruturação e estilização de páginas web
-- 🛠 **Ferramentas** – Git, GitHub, VS Code, Android Studio
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,flutter,dart,cpp,html,css,git,github,vscode,androidstudio" />
+</p>
 
 ---
 
 ## 📂 Projetos em Destaque
 
-### 📌 Java
-- **Projetos-Java**  
-  Conjunto de projetos e exercícios em Java, focados em lógica de programação e conceitos fundamentais.
+📌 **Java**
+- ☕ **Projetos-Java** – Estudos e aplicações em Java (POO, lógica e fundamentos)
+- 📘 **Projeto-Java-2023** – Organização e evolução dos estudos em Java
 
-- **Projeto-Java-2023**  
-  Projeto desenvolvido em Java com organização por versões/etapas de aprendizado.
+📌 **Mobile**
+- 📱 **Projetos-Flutter** – Aplicativos mobile desenvolvidos com Flutter
 
-### 📌 Mobile (Flutter)
-- **Projetos-Flutter**  
-  Aplicativos mobile desenvolvidos com Flutter, explorando UI, navegação e consumo de dados.
+📌 **Web**
+- 🌐 **Projetos-HTML** – Projetos de frontend com HTML e CSS
 
-### 📌 Web
-- **Projetos-HTML**  
-  Projetos voltados para desenvolvimento web utilizando HTML e CSS.
+📌 **Outros**
+- 🏥 **ConsulTodayMobile** – Aplicação mobile integrada a um projeto maior
 
-### 📌 Outros
-- **ConsulTodayMobile**  
-  Aplicação mobile desenvolvida como parte de um projeto maior, integrando conceitos de frontend e funcionalidades práticas.
-
-🔎 *Confira todos os repositórios no meu perfil:*  
-👉 https://github.com/AkaMaicon
+👉 Veja todos os repositórios:  
+🔗 https://github.com/AkaMaicon
 
 ---
 
-## 📚 Atualmente estudando
+## 📊 Estatísticas
 
-- 📱 Desenvolvimento mobile com **Flutter**
-- ☕ Boas práticas e aprofundamento em **Java**
-- 🔗 Integração entre aplicações frontend e backend
-- 🧠 Aprimoramento em lógica, estrutura de dados e organização de projetos
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AkaMaicon&show_icons=true&theme=default" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkaMaicon&layout=compact" />
+</p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🧠 Atualmente aprendendo
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkaMaicon&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkaMaicon&layout=compact)
+- 📱 Flutter e boas práticas de UI
+- ☕ Java e arquitetura de aplicações
+- 🔗 Integração frontend + backend
+- 🧩 Estrutura de dados e lógica avançada
 
 ---
 
 ## 📫 Vamos nos conectar?
 
-Fique à vontade para explorar meus projetos, deixar uma ⭐ ou entrar em contato!
-
-🔗 **GitHub:** https://github.com/AkaMaicon  
+<p align="center">
+  <a href="https://github.com/AkaMaicon">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-✨ *Sempre em busca de aprender algo novo e evoluir como desenvolvedor.*
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+<p align="center">
+  ✨ Sempre evoluindo, um commit por vez ✨
+</p>
