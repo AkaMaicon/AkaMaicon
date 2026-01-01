@@ -40,11 +40,14 @@
 
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AkaMaicon&show_icons=true&theme=default" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkaMaicon&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkaMaicon&show_icons=true&theme=github&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkaMaicon&layout=compact&theme=github" />
 </p>
 
 ---
